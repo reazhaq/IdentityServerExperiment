@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using IdentityServer4.Models;
 
-namespace QuickStartIdServer
+namespace QuickStartIdentityServer
 {
-    public class Config
+    public static class Config
     {
         public static IEnumerable<ApiResource> GetApiResources()
         {

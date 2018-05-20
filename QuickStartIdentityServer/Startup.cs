@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace QuickStartIdServer
+namespace QuickStartIdentityServer
 {
     public class Startup
     {
@@ -30,10 +30,9 @@ namespace QuickStartIdServer
             }
 
             app.UseIdentityServer();
-
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World!");
+                await context.Response.WriteAsync("Quick Start Identity Server");
             });
         }
     }
