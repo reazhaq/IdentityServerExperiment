@@ -8,6 +8,14 @@
     }
   },
   "profiles": {
+    //"IIS Express": {
+    //  "commandName": "IISExpress",
+    //  "launchBrowser": true,
+    //  "launchUrl": ".well-known/openid-configuration",
+    //  "environmentVariables": {
+    //    "ASPNETCORE_ENVIRONMENT": "Development"
+    //  }
+    //},
     "QuickStartIdentityServer": {
       "commandName": "Project",
       "launchBrowser": true,

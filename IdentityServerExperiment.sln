@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickStartIdentityServer", "QuickStartIdentityServer\QuickStartIdentityServer.csproj", "{074DFF7E-727B-4107-886D-131B322E0ED1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickStartIdentityServer", "QuickStartIdentityServer\QuickStartIdentityServer.csproj", "{074DFF7E-727B-4107-886D-131B322E0ED1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickStartApi", "QuickStartApi\QuickStartApi.csproj", "{60F12B02-64BD-4AA1-8D64-C96089F43E05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickStartApi", "QuickStartApi\QuickStartApi.csproj", "{60F12B02-64BD-4AA1-8D64-C96089F43E05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QucikStartConsoleClient", "QucikStartConsoleClient\QucikStartConsoleClient.csproj", "{3143D82F-21A9-4213-9507-DA187005A091}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QucikStartConsoleClient", "QucikStartConsoleClient\QucikStartConsoleClient.csproj", "{3143D82F-21A9-4213-9507-DA187005A091}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
