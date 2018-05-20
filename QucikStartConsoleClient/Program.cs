@@ -8,7 +8,7 @@ namespace QucikStartConsoleClient
 {
     class Program
     {
-        public static async Task Main(string[] args)
+        static async Task Main(string[] args)
         {
             Console.WriteLine("Quick Start Console Client");
 
