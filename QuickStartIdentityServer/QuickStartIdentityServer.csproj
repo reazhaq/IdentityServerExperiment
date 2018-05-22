@@ -13,6 +13,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Quickstart\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
